@@ -1,7 +1,7 @@
 # rare-icons
 
 Rare Icon Database for [Icon Search](https://marmooo.github.io/icon-search/).
-Full Database is [Icon DB](https://github.com:marmooo/icon-db).
+Full Database is [Icon DB](https://github.com/marmooo/icon-db).
 
 Collections of SVG icons created by various authors, released under various free
 licenses. When using this collections, please see
