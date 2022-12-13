@@ -1,4 +1,4 @@
-# rare-icons
+# rare-icon-db
 
 Rare Icon Database for [Icon Search](https://marmooo.github.io/icon-search/).
 Full Database is [Icon DB](https://github.com/marmooo/icon-db).
